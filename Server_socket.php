@@ -126,5 +126,6 @@ class Server_socket
 }/* end of class Server_socket*/
 
 $server_socket = new Server_socket('127.0.0.1',9000,20);
-$server_socket->start(); sleep(2); 
+$server_socket->start(); 
+sleep(2); 
 ?>

@@ -1,4 +1,11 @@
 <?php
+
+// $status = exec("chat.bat");
+
+// if( !$status ){
+//     die("失败");
+// }
+
 $host = '127.0.0.1'; 
 $port = '9000'; 
 $null = NULL; 
